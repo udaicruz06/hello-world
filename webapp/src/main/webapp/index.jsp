@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>UDAI_webportal_soft</title>
+<title>UDAIKUMAR_webportal_soft</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -48,7 +48,7 @@ article {
   -webkit-flex: 3;
   -ms-flex: 3;
   flex: 3;
-  background-color: #f1f1f1;
+  background-color: #b46f6f;
   padding: 10px;
 }
 
@@ -71,7 +71,7 @@ footer {
 </head>
 <body>
 
-<h2>UDAI_Flexbox</h2>
+<h2>UDAI_Flexbox_</h2>
 <p>In this example, we have created a header, two columns/boxes and a footer. On smaller screens, the columns will stack on top of each other.</p>
 <p>Resize the browser window to see the responsive effect.</p>
 <p><strong>Note:</strong> Flexbox is not supported in Internet Explorer 10 and earlier versions.</p>
