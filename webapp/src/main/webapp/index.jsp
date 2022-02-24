@@ -15,7 +15,7 @@
 *
 */* Style the header */
 header {
-  background-color: #666;
+  background-color: rgb(190, 83, 240);
   padding: 30px;
   text-align: center;
   font-size: 35px;
