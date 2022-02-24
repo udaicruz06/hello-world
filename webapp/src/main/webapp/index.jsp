@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>CSS Template</title>
+<title>UDAI_webportal</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
@@ -71,7 +71,7 @@ footer {
 </head>
 <body>
 
-<h2>CSS Layout Flexbox</h2>
+<h2>UDAI_Flexbox</h2>
 <p>In this example, we have created a header, two columns/boxes and a footer. On smaller screens, the columns will stack on top of each other.</p>
 <p>Resize the browser window to see the responsive effect.</p>
 <p><strong>Note:</strong> Flexbox is not supported in Internet Explorer 10 and earlier versions.</p>
