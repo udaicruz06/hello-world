@@ -1,7 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<<<<<<< HEAD
 <title>PUGAZHINIYAN</title>
+=======
+<title>Udaya</title>
+>>>>>>> 5019e3dd83a7fd524f9983652d8180db5106f49f
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
